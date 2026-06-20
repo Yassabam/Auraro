@@ -1,0 +1,2 @@
+# Auraro
+full assistant agent
